@@ -1,0 +1,3 @@
+description "Portable JSON installer engine; no GUI or script runtime";
+uses Core;
+file InstallerCore.h, InstallerManifest.cpp, InstallerFiles.cpp, InstallerClients.cpp;
